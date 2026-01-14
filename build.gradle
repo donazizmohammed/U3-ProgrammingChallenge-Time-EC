@@ -18,6 +18,7 @@ java {
 	toolchain {
 		languageVersion = JavaLanguageVersion.of(11) // Use Java 11
 }
+}
 
 
 test {
